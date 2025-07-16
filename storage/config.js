@@ -3,7 +3,7 @@ module.exports = {
     source: {
         website : {
             support: "https://discord.gg/eBxhYgePyu",
-            domain: "https://-cwhd.onrender.com"//you need get your repl.co link in replit with keepAlive code, then replace the link
+            domain: "https://wet-ass-pussy.onrender.com"//you need get your repl.co link in replit with keepAlive code, then replace the link
         },   
         anti_crash: true,//turn on or off the antiCrash file
         keep_alive: true,//turn on or off the keepAlive file
